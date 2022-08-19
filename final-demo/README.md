@@ -66,4 +66,4 @@ git push heroku master
 heroku apps:rename <project-name>
 ```
 
-You can now access your app from <project-name>.herokuapp.com!
+You can now access your app from project-name.herokuapp.com!

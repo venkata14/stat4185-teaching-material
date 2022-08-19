@@ -2,4 +2,4 @@
 
 Venkata's Teach Material for STAT 4185: Advanced Data Manipulation and Analysis w/ Python
 
-- THe `final-demo` contains a demo for the final class project. 
+- The `final-demo/` folder contains a demo for the final class project. Further details are within the folder.
