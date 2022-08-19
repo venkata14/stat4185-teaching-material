@@ -4,7 +4,7 @@
 
 This repository hosts a demo for the final class project. The final class project should be something resume worthy and created with the tools you learned in class and hosted with Streamlit & Heroku. We created a demo with the MNIST dataset as it is simple to follow along with the material taught in class. Ideally, all of you should attempt to create projects for your resumes that are more applicable/practical. 
 
-The `train_tf_model.ipynb` file contains the code to train and save the model. The `models/` folder contains the saved folders and the `data/` folder contains the processed data.
+The `train_tf_model.ipynb` file contains the code to train and save the model. The `models/` folder contains the saved folders. The `data/` folder contains the processed data. And `app.py` contains the streamlit app.
 
 *You can clone the repo and deploy it yourself with the instructions below.*
 
